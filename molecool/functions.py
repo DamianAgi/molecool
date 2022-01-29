@@ -35,7 +35,7 @@ if __name__ == "__main__":
     # Do something if this file is invoked on its own
     print(canvas())
 
-mport os
+import os
 import numpy as np
 import matplotlib.pyplot as plt
 
