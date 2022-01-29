@@ -1,5 +1,12 @@
 """Provide the primary functions."""
+"""
+functions.py
+A python package for analyzing xyz files
 
+Handles the primary functions
+
+the source code goes here
+"""
 
 def canvas(with_attribution=True):
     """
