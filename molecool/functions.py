@@ -7,6 +7,7 @@ Handles the primary functions
 
 the source code goes here
 """
+#import relevant files
 import os
 import numpy as np
 import matplotlib.pyplot as plt
