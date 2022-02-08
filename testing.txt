@@ -1,1 +1,5 @@
 I aded this ile from a new clone!
+
+Just to have more text in here to ensure a merge conflict and practice 
+
+on resolving same in a command line, selah!
