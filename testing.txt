@@ -1,4 +1,6 @@
 *************************************
+a new line to create meerge conflict
+**********************************
 This is the start of testing.txt
 *************************************
 I aded this ile from a new clone!
