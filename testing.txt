@@ -1,5 +1,15 @@
+*************************************
+a new line to create meerge conflict
+**********************************
+This is the start of testing.txt
+*************************************
 I aded this ile from a new clone!
 
-Just to have more text in here to ensure a merge conflict and practice 
 
-on resolving same in a command line, selah!
+Merge conflict resolved by editing text to desired format; in 
+
+a fancy text editor you would see differences mre clearly highlighted and you can compare, keep some changes and remove some. 
+
+***********************************
+This is the end of testing.txt
+************************************
